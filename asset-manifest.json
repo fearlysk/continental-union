@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/continental-union/static/css/main.b58083e7.css",
-    "main.js": "/continental-union/static/js/main.d9d5cc1c.js",
-    "static/media/defence.jpg": "/continental-union/static/media/defence.fcdc4b793f20c5d03c4e.jpg",
-    "static/media/ecology.jpg": "/continental-union/static/media/ecology.4f6cd25e637a54afa8b4.jpg",
-    "static/media/culture.jpg": "/continental-union/static/media/culture.7cab2a03a4f42a937436.jpg",
-    "static/media/culture-1.jpg": "/continental-union/static/media/culture-1.a70cb1614d532771cba5.jpg",
-    "static/media/economy.jpg": "/continental-union/static/media/economy.ea6b7b4f0a4dda5cec61.jpg",
-    "static/media/logo.png": "/continental-union/static/media/logo.e7be78fde242f6a4a0d8.png",
-    "static/media/headerLogo.jpg": "/continental-union/static/media/headerLogo.154a2fdcc8db80cc4908.jpg",
-    "static/media/culture-2.jpg": "/continental-union/static/media/culture-2.49b761e546208b728bd4.jpg",
-    "static/media/culture-3.jpg": "/continental-union/static/media/culture-3.82bedad54ce4af10c8b5.jpg",
-    "static/media/handshake.png": "/continental-union/static/media/handshake.a7281be7f653c35682b8.png",
-    "index.html": "/continental-union/index.html",
-    "main.b58083e7.css.map": "/continental-union/static/css/main.b58083e7.css.map",
-    "main.d9d5cc1c.js.map": "/continental-union/static/js/main.d9d5cc1c.js.map"
+    "main.css": "/static/css/main.b58083e7.css",
+    "main.js": "/static/js/main.23749bdc.js",
+    "static/media/defence.jpg": "/static/media/defence.fcdc4b793f20c5d03c4e.jpg",
+    "static/media/ecology.jpg": "/static/media/ecology.4f6cd25e637a54afa8b4.jpg",
+    "static/media/culture.jpg": "/static/media/culture.7cab2a03a4f42a937436.jpg",
+    "static/media/culture-1.jpg": "/static/media/culture-1.a70cb1614d532771cba5.jpg",
+    "static/media/economy.jpg": "/static/media/economy.ea6b7b4f0a4dda5cec61.jpg",
+    "static/media/logo.png": "/static/media/logo.e7be78fde242f6a4a0d8.png",
+    "static/media/headerLogo.jpg": "/static/media/headerLogo.154a2fdcc8db80cc4908.jpg",
+    "static/media/culture-2.jpg": "/static/media/culture-2.49b761e546208b728bd4.jpg",
+    "static/media/culture-4.jpg": "/static/media/culture-4.a20d5a53fa561b1a019a.jpg",
+    "static/media/culture-3.jpg": "/static/media/culture-3.82bedad54ce4af10c8b5.jpg",
+    "static/media/handshake.png": "/static/media/handshake.a7281be7f653c35682b8.png",
+    "index.html": "/index.html",
+    "main.b58083e7.css.map": "/static/css/main.b58083e7.css.map",
+    "main.23749bdc.js.map": "/static/js/main.23749bdc.js.map"
   },
   "entrypoints": [
     "static/css/main.b58083e7.css",
-    "static/js/main.d9d5cc1c.js"
+    "static/js/main.23749bdc.js"
   ]
 }
