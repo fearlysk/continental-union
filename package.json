@@ -1,7 +1,7 @@
 {
   "name": "fd-site",
   "version": "0.1.0",
-  "homepage": "https://fearlysk.github.io",
+  "homepage": "https://fearlysk.github.io/continental-union",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
