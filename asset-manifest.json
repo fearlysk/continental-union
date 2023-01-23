@@ -1,30 +1,28 @@
 {
   "files": {
-    "main.css": "/continental-union/static/css/main.6b671d9f.css",
-    "main.js": "/continental-union/static/js/main.e2059fd1.js",
-    "static/media/ecology.jpg": "/continental-union/static/media/ecology.4f6cd25e637a54afa8b4.jpg",
-    "static/media/culture.jpg": "/continental-union/static/media/culture.7cab2a03a4f42a937436.jpg",
-    "static/media/culture-1.jpg": "/continental-union/static/media/culture-1.a70cb1614d532771cba5.jpg",
-    "static/media/economy.jpg": "/continental-union/static/media/economy.ea6b7b4f0a4dda5cec61.jpg",
-    "static/media/politics-2.jpg": "/continental-union/static/media/politics-2.df2d7182367a156c447b.jpg",
-    "static/media/logo.png": "/continental-union/static/media/logo.e7be78fde242f6a4a0d8.png",
-    "static/media/politics.jpg": "/continental-union/static/media/politics.6c3b3ddb9e3052e73be8.jpg",
+    "main.css": "/continental-union/static/css/main.0b22298e.css",
+    "main.js": "/continental-union/static/js/main.de619cd0.js",
+    "static/media/culture.jpg": "/continental-union/static/media/culture.69fb3b958242bf3b128d.jpg",
+    "static/media/culture-1.jpg": "/continental-union/static/media/culture-1.097286bebc742e707276.jpg",
+    "static/media/economy.jpg": "/continental-union/static/media/economy.6fc09269b845002b64d9.jpg",
+    "static/media/politics.jpg": "/continental-union/static/media/politics.e20f4e4765a14d46456f.jpg",
     "static/media/headerLogo.jpg": "/continental-union/static/media/headerLogo.154a2fdcc8db80cc4908.jpg",
-    "static/media/culture-2.jpg": "/continental-union/static/media/culture-2.49b761e546208b728bd4.jpg",
-    "static/media/economy-1.png": "/continental-union/static/media/economy-1.55e60c1b6cf2a89ecf55.png",
-    "static/media/culture-4.jpg": "/continental-union/static/media/culture-4.a20d5a53fa561b1a019a.jpg",
-    "static/media/culture-3.jpg": "/continental-union/static/media/culture-3.82bedad54ce4af10c8b5.jpg",
-    "static/media/politics-1.jpg": "/continental-union/static/media/politics-1.8c72dcc9d077423bec3b.jpg",
-    "static/media/economy-2.png": "/continental-union/static/media/economy-2.6400f76accc6edf3de0f.png",
-    "static/media/economy-3.png": "/continental-union/static/media/economy-3.a15f83feaeb470ed881e.png",
-    "static/media/handshake.png": "/continental-union/static/media/handshake.a7281be7f653c35682b8.png",
-    "static/media/politics-3.jpg": "/continental-union/static/media/politics-3.a098a4ff9f408b2efd2c.jpg",
+    "static/media/culture-4.jpg": "/continental-union/static/media/culture-4.69089f90d26a143fc8d3.jpg",
+    "static/media/politics-2.jpg": "/continental-union/static/media/politics-2.14846b8d3b4c055fb934.jpg",
+    "static/media/culture-2.jpg": "/continental-union/static/media/culture-2.1b82264ab3297dfe5392.jpg",
+    "static/media/culture-3.jpg": "/continental-union/static/media/culture-3.b29e8537ad9c93d35746.jpg",
+    "static/media/logo.png": "/continental-union/static/media/logo.3c06da8f8ab68f56b7dc.png",
+    "static/media/politics-1.jpg": "/continental-union/static/media/politics-1.205cf6a15843b2c323eb.jpg",
+    "static/media/politics-3.jpg": "/continental-union/static/media/politics-3.cd1bb09de1c2ff481e86.jpg",
+    "static/media/economy-1.png": "/continental-union/static/media/economy-1.452d1dbed58ba125f7df.png",
+    "static/media/economy-2.png": "/continental-union/static/media/economy-2.3c846c16edbfae3675cc.png",
+    "static/media/economy-3.png": "/continental-union/static/media/economy-3.f0a8172f7ded11f4d914.png",
     "index.html": "/continental-union/index.html",
-    "main.6b671d9f.css.map": "/continental-union/static/css/main.6b671d9f.css.map",
-    "main.e2059fd1.js.map": "/continental-union/static/js/main.e2059fd1.js.map"
+    "main.0b22298e.css.map": "/continental-union/static/css/main.0b22298e.css.map",
+    "main.de619cd0.js.map": "/continental-union/static/js/main.de619cd0.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b671d9f.css",
-    "static/js/main.e2059fd1.js"
+    "static/css/main.0b22298e.css",
+    "static/js/main.de619cd0.js"
   ]
 }
