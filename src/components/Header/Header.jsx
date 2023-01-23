@@ -1,5 +1,6 @@
 import { Link, useLocation } from 'react-router-dom';
 import Logo from "../UI/Logo/Logo";
+import Burger from "../../assets/burger-icon.png";
 import "./Header.css";
 
 const Header = () => {
@@ -13,6 +14,7 @@ const Header = () => {
                 <div><Link to="/"><Logo /></Link></div>
                 <div className="header__logo-headline"><h2>Континентальный Союз</h2></div>
             </div>
+            <div className="burger"><img src={Burger} height={40} width={40} /></div>
             <div className="header__content">
                 <div className="header__content-item">
                     {route === "/" ? <h3 className="current"><Link to="/">Главная</Link></h3> : <h3><Link to="/">Главная</Link></h3>} 

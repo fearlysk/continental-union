@@ -3,7 +3,8 @@ const routes = {
     HOME: "/",
     CULTURE: "/culture",
     ECONOMY: "/economy",
-    POLITICS: "/politics"
+    POLITICS: "/politics",
+    ARTICLE: "/about/article"
 }
 
 export default routes;

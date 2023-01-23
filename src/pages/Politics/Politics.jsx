@@ -9,7 +9,6 @@ const Politics = () => {
         <div className="politics__wrapper">
         <h1 className="politics__wrapper-headline">Политическая роль Континентального Союза</h1>
         <div className="politics__content">
-            <div><img className="politics__content-img" src={Politics1} width={630} height={350} alt="No img found" /></div>
             <div className="politics__context-text">
               <h2>Политика Континентального Союза</h2>
               <p>Организация и создание Континентального союза должна проходить в тесном диалоге, преимущественно между СНГ, ЕАЭС и ШОС, 
@@ -19,6 +18,7 @@ const Politics = () => {
                 а так также страны Аравийского полуострова. Даже Республика Беларусь находится в шаге от вступления в состав данного объединения. 
               </p>
             </div>
+            <div><img className="politics__content-img" src={Politics1} width={630} height={350} alt="No img found" /></div>
         </div>
         <AnimationOnScroll animateIn="animate__fadeInLeft">
         <div className='sep'></div>
@@ -37,7 +37,6 @@ const Politics = () => {
         <AnimationOnScroll animateIn="animate__fadeIn">
         <div className='sep'></div>
         <div className="politics__content">
-            <div><img className="politics__content-img" src={Politics3} width={630} height={350} alt="No img found" /></div>
             <div className="politics__context-text">
               <h2>Роль БРИКС</h2>
               <p>Немаловажным объединением является БРИКС. Оно было создано с целью 
@@ -49,6 +48,7 @@ const Politics = () => {
                    собственного банка развития БРИКС.
                 В итоге данное объединение имеет отношение к Евразии, но также включает членов из Африки и Южной Америки. </p>
             </div>
+            <div><img className="politics__content-img" src={Politics3} width={630} height={350} alt="No img found" /></div>
         </div>
         </AnimationOnScroll>
     </div>

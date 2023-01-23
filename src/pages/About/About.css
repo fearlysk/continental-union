@@ -1,3 +1,22 @@
 .about__wrapper {
     margin-top: 7%;
 }
+.about__content {
+    border: 1px solid white;
+    color: white;
+    width: 70%;
+    margin: 10px auto;
+    padding: 15px;
+    background-color: rgb(13, 154, 27);
+    animation: appear 1s;
+    border-radius: 9px;
+}
+.about__headline {
+    color: white;
+    text-align: center;
+    margin: 15px 0;
+}
+@keyframes appear {
+    from {opacity: 0;}
+    to {opacity: 1;}
+  }

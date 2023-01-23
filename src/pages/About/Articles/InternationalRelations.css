@@ -1,0 +1,19 @@
+.article__wrapper {
+    color: white;
+    width: 80%;
+    margin: 6% auto;
+    border: 1px solid white;
+    background-color: rgb(18, 93, 15);
+    padding: 15px 40px;
+    animation: appear 1s;
+}
+.article__wrapper > h1 {
+    font-size: 46px;
+}
+.article__wrapper > p {
+    font-size: 26px;
+}
+@keyframes appear {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}

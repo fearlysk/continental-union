@@ -7,6 +7,7 @@ import Footer from "./components/Footer/Footer.jsx";
 import Culture from "./pages/Culture/Culture.jsx";
 import Economy from "./pages/Economy/Economy.jsx";
 import Politics from "./pages/Politics/Politics.jsx";
+import InternationalRelations from "./pages/About/Articles/InternationalRelations.jsx";
 import ScrollToTopOnLoad from "./utils/scrollToTop.js";
 import routes from "../src/constants/routes";
 import './App.css';
@@ -26,6 +27,7 @@ function App() {
             <Route path={routes.CULTURE} element={<Culture/>} />
             <Route path={routes.ECONOMY} element={<Economy/>} />
             <Route path={routes.POLITICS} element={<Politics/>} />
+            <Route path={routes.ARTICLE} element={<InternationalRelations/>} />
           </Routes>
         </div>
         <div>

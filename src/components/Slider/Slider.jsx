@@ -5,9 +5,7 @@ import 'react-slideshow-image/dist/styles.css';
 import './Slider.css';
 import culture from '../../assets/culture.jpg';
 import politics from '../../assets/politics.jpg';
-// import defence from '../../assets/defence.jpg';
 import economy from '../../assets/economy.jpg';
-import ecology from '../../assets/ecology.jpg';
 
 
 const divStyle = {
@@ -34,12 +32,7 @@ const slideImages = [
     url: economy,
     caption: 'Экономика',
     linkUrl: routes.ECONOMY
-   },
-   {
-    url: ecology,
-    caption: 'Экология и природа',
-    linkUrl: routes.ABOUT
-   },
+   }
 ];
 
 const Slider = () => {
