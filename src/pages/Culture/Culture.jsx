@@ -2,6 +2,7 @@ import { AnimationOnScroll } from 'react-animation-on-scroll';
 import Culture1 from "../../assets/culture-1.jpg";
 import Culture2 from "../../assets/culture-2.jpg";
 import Culture3 from "../../assets/culture-3.jpg";
+import Culture4 from "../../assets/culture-4.jpg";
 import "./Culture.css";
 
 const Culture = () => {
@@ -56,7 +57,7 @@ const Culture = () => {
                      Также это позволит большему количеству студентов поехать в другую страну для учебы по обмену.
                      А после окончания ВУЗа он сможет получить работу по диплому в любой другой стране.</p>
                 </div>
-                <div><img className="culture__content-img" src={Culture3} width={430} height={350} alt="No img found" /></div>
+                <div><img className="culture__content-img" src={Culture4} width={430} height={350} alt="No img found" /></div>
             </div>
             </AnimationOnScroll>
         </div>

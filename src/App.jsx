@@ -17,6 +17,7 @@ function App() {
         <ScrollToTop smooth="true" height="24" width="24" />
         <Routes>
           <Route path="/" element={<Home/>} />
+          <Route path="/continental-union" element={<Home/>} />
           <Route path="/about" element={<About/>} />
           <Route path="/culture" element={<Culture/>} />
         </Routes>
