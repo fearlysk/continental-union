@@ -1,0 +1,65 @@
+.home {
+    margin: 0;
+    background: rgb(100, 236, 157);
+    background: linear-gradient(90deg, rgb(43, 236, 117) 18%, rgb(12, 102, 40) 61%);
+}
+.home__greeting {
+    color: white;
+    height: auto;
+    text-align: center;
+    padding: 15px 0px;
+}
+@keyframes appear {
+    from {opacity: 0;}
+    to {opacity: 1;}
+  }
+.home__greeting-headline {
+    height: 550px;
+    display: flex;
+    flex-direction: row;
+    animation-name: appear;
+    animation-duration: 2s;
+    margin: 10% 10px 0 10px;
+}
+.home__greeting-headline--quote {
+    text-decoration: underline;
+    font-style: italic;
+    margin: 30px 0;
+}
+.home__main {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    color: white;
+    padding: 10px 0;
+}
+.home__greeting-headline--text {
+    text-align: left !important;
+    margin-left: 60px;
+    margin-top: 30px;
+    width: 60%;
+    line-height: 36px;
+}
+.home__slider {
+    margin-top: 10%;
+}
+.home__slider-headline {
+    margin: 5px auto 1% auto;
+    width: 100%;
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: bolder;
+    font-size: 40px;
+}
+.home__main-goal {
+    width: 60%;
+    text-align: left;
+    margin: 0 auto;
+    line-height: 40px;
+}
+.home__main-goal--headline {
+    margin: 10px 0;
+    text-decoration: underline;
+    font-size: 40px;
+    margin-bottom: 30px;
+}

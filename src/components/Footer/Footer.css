@@ -1,0 +1,9 @@
+.footer {
+    height: 90px;
+    width: 100%;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+.footer__title {
+    padding-top: 30px;
+}
