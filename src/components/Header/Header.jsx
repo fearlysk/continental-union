@@ -10,7 +10,7 @@ const Header = () => {
     return (
         <div className="header">
             <div className="header__logo">
-                <div><Logo /></div>
+                <div><Link to="/"><Logo /></Link></div>
                 <div className="header__logo-headline"><h2>Континентальный Союз</h2></div>
             </div>
             <div className="header__content">
@@ -24,7 +24,7 @@ const Header = () => {
                     {route === "/news" ? <h3 className="current"><Link to="/news">Новости</Link></h3> : <h3><Link to="/news">Новости</Link></h3>}
                 </div>
                 <div className="header__content-item">
-                    {route === "/gov" ? <h3 className="current"><Link to="/gov">Государственные организации</Link></h3> : <h3><Link to="/gov">Государственные организации</Link></h3>}
+                    {route === "/gov" ? <h3 className="current"><Link to="/gov">Органы управления</Link></h3> : <h3><Link to="/gov">Органы управления</Link></h3>}
                 </div>
             </div>
         </div>

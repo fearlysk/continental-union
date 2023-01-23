@@ -20,6 +20,7 @@ const Culture = () => {
                 </div>
             </div>
             <AnimationOnScroll animateIn="animate__fadeInLeft">
+            <div className='sep'></div>
             <div className="culture__content">
                 <div className="culture__context-text">
                   <h2>Индивидуальность культур</h2>
@@ -34,6 +35,7 @@ const Culture = () => {
             </div>
             </AnimationOnScroll>
             <AnimationOnScroll animateIn="animate__fadeIn">
+            <div className='sep'></div>
             <div className="culture__content">
                 <div><img className="culture__content-img" src={Culture3} width={430} height={350} alt="No img found" /></div>
                 <div className="culture__context-text">
@@ -47,6 +49,7 @@ const Culture = () => {
             </div>
             </AnimationOnScroll>
             <AnimationOnScroll animateIn="animate__fadeInLeft">
+            <div className='sep'></div>
             <div className="culture__content">
                 <div className="culture__context-text">
                   <h2>Образование</h2>

@@ -4,7 +4,8 @@ import routes from "../../constants/routes";
 import 'react-slideshow-image/dist/styles.css';
 import './Slider.css';
 import culture from '../../assets/culture.jpg';
-import defence from '../../assets/defence.jpg';
+import politics from '../../assets/politics.jpg';
+// import defence from '../../assets/defence.jpg';
 import economy from '../../assets/economy.jpg';
 import ecology from '../../assets/ecology.jpg';
 
@@ -25,14 +26,14 @@ const slideImages = [
     linkUrl: routes.CULTURE
    },
    {
-    url: defence,
-    caption: 'Оборона',
-    linkUrl: routes.ABOUT
+    url: politics,
+    caption: 'Политика',
+    linkUrl: routes.POLITICS
    },
    {
     url: economy,
     caption: 'Экономика',
-    linkUrl: routes.ABOUT
+    linkUrl: routes.ECONOMY
    },
    {
     url: ecology,

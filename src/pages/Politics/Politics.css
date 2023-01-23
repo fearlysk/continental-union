@@ -1,7 +1,7 @@
-.culture__wrapper {
+.politics__wrapper {
     margin-top: 7%;
 }
-.culture__content {
+.politics__content {
     width: 90%;
     text-align: center;
     display: flex;
@@ -13,10 +13,10 @@
     color: white;
     margin-left: 9%;
 }
-.culture__context-text {
+.politics__context-text {
     margin: 0 30px;
     text-align: left;
-    background-color: rgb(62, 195, 29);
+    background-color: rgb(19, 97, 75);
     border-radius: 20px;
     padding: 15px;
     border: 1px solid white;
@@ -26,13 +26,13 @@
     from {opacity: 0;}
     to {opacity: 1;}
 }
-.culture__wrapper-headline {
+.politics__wrapper-headline {
     text-align: center;
     margin: 10px 0;
     color: white;
 }
-.culture__content-img {
-    border-radius: 90px;
+.politics__content-img {
+    border-radius: 30px;
 }
 .sep {
     width: 80%;

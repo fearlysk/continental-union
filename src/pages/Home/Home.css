@@ -21,6 +21,10 @@
     animation-duration: 2s;
     margin: 10% 10px 0 10px;
 }
+.home__logo {
+    -webkit-filter: drop-shadow(15px 5px 25px #222);
+    filter: drop-shadow(15px 5px 25px #222);
+}
 .home__greeting-headline--quote {
     text-decoration: underline;
     font-style: italic;
